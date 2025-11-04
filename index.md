@@ -1,16 +1,25 @@
 ---
 layout: default
-title: <Your Name>
+title: <Navya Penati>
 ---
 
-## About Me
+## Introduction
 
 
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+
+<img src="assets/NavyaSDB.jpg" alt="Navya Penati" width="225" style="float: left; margin-right: 20px; border-radius: 12px;">
+
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+I am a 3rd year Mechanical Engineering student at Cornell University and a Midshipman in Naval ROTC with an interest in applying engineering principles in real-world defense, aviation, and maritime systems. I am developing strong foundations in dynamics, thermofluids, materials, and control systems, and I enjoy translating theory into hands-on projects and technical analysis. Through my academic work and military training, I’ve learned to approach engineering challenges with discipline, problem-solving, and leadership — skills I continuously refine through coursework, labs, and ROTC responsibilities.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
+I am hopign to pursue a career as a U.S. Navy Submarine Officer and plan to attend Nuclear Power School after graduation. I am motivated by the complexity and high-accountability environment of naval nuclear propulsion systems and the opportunity to contribute to mission-critical operations under demanding conditions. My long-term interests include submarine engineering, nuclear propulsion technology, and advanced defense systems. This portfolio showcases selected technical work, projects, and experiences as I continue developing as an engineer, leader, and future naval nuclear officer.
+
+Below is my resume: 
+[Download My Resume](assets/NavyaPenatiResume.pdf)
+
+
+
+
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

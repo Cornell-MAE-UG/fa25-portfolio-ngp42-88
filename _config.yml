@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Navya Penati
 description              : "Hi, I'm Navya Penati. I'm a sophomore Mechanical & Aerospace Engineering student at Cornell University in NROTC. This portfolio highlights my projects, coursework, and professional interests in naval engineering, robotics, and aerospace systems."
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "fa25-portfolio-ngp42-88" 
 
 # Theme and Style
 theme: jekyll-theme-minimal

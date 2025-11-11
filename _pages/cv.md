@@ -5,10 +5,10 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/NavyaPenatiResume.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [ngp42@cornell.edu](mailto:ngp42@cornell.edu) | | | **Phone:** 7038659440
 
 ---
 

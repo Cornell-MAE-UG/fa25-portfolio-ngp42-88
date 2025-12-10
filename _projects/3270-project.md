@@ -4,10 +4,12 @@ title: 3270 Project
 description: Torque Wrench Design
 technologies: [MATLAB, Fusion360, ANSYS]
 image: /assets/images/Materials.JPG
+
 ---
 
 Images of CAD Model:
-/assets/images/CADdimension.jpg
+![CAD dimension](/assets/images/CADdimension.jpg)
+
 
 Describe material used and its relevant mechanical properties
 

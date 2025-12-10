@@ -6,10 +6,8 @@ technologies: [MATLAB, Fusion360, ANSYS]
 image: /assets/images/Materials.JPG
 ---
 
-
-[Click here to view the Final Report]({{ "/assets/3270Final.pdf" | relative_url }})
-
 Images of CAD Model:
+/assets/images/CADdimension.jpg
 
 Describe material used and its relevant mechanical properties
 

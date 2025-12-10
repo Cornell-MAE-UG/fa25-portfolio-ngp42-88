@@ -7,9 +7,9 @@ image: /assets/images/Materials.JPG
 ---
 
 
-[Click here to view the Final Report]({{ "/assets/3270Report.pdf" | relative_url }})
+[Click here to view the Final Report]({{ "/assets/3270Final.pdf" | relative_url }})
 
-Images of CAD
+Images of CAD Model:
 
 Describe material used and its relevant mechanical properties
 

@@ -8,4 +8,4 @@ image: /assets/images/Materials.JPG
 ---
 Project completed by Navya Penati + Amanda Nicholson
 
-[Click here to view the Final Report]({{ "/assets/3270Final.pdf" | relative_url }})
+[Click here to view the Final Report]({{ "/assets/3270FinalReport.pdf" | relative_url }})

@@ -12,4 +12,4 @@ Another key concept from this assignment was the lumped capacitance method which
 
 ## Homework PDF
 
-<iframe src="/assets/pdf/MAE3240HW5.pdf" width="100%" height="800px"></iframe>
+[Click here to view the Final Report]({{ "/assets/MAE3240HW5.pdf" | relative_url }})

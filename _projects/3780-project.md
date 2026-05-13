@@ -4,7 +4,6 @@ title: 3780 Project
 description: Robot Competition
 technologies: [CAD, Arduino]
 image:
-permalink: /projects/3780/
 
 ---
 Project completed by Navya Penati + Amanda Nicholson + Logan Roberts
